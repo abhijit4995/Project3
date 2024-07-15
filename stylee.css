@@ -1,0 +1,24 @@
+.main{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url(assests/virtual.jpg) ;
+    height: 400px;
+    position: relative;
+    /* z-index:2;
+    background-color: rgb(248, 7, 7);*/
+} 
+
+.first{
+    top: 200px;
+    height: 150px;
+    background-color: rgb(248, 7, 7);
+    color: rgb(36, 24, 24);
+    font-size: 20px;
+    position: absoulte;
+
+}
+
+.button{
+    background-color: rgb(248, 204, 7);
+}
