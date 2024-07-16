@@ -3,22 +3,69 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-image:url(assests/virtual.jpg) ;
-    height: 400px;
+    height: 450px;
     position: relative;
     /* z-index:2;
     background-color: rgb(248, 7, 7);*/
 } 
 
 .first{
-    top: 200px;
-    height: 150px;
+    top: 180px;
+    height: 270px;
+    width: 100%;
     background-color: rgb(248, 7, 7);
-    color: rgb(36, 24, 24);
+    color: rgb(250, 250, 250);
     font-size: 20px;
-    position: absoulte;
+    position: absolute;
+    opacity: 0.7;
+}
 
+.second{
+    padding-left:25px ;
 }
 
 .button{
     background-color: rgb(248, 204, 7);
+}
+
+.main2{
+    background-image: url(assests/second.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    position: relative;
+}
+.first2{
+    position:absolute;
+    top: 100px;
+    left: 50px;
+}
+
+.main3{
+    position: relative;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.b1{
+    background-color: red;
+    padding-left: 20px;
+}
+.b2{
+    background-color: yellow;
+    padding-left: 20px;
+}
+.b3{
+    background-color: black;
+    padding-left: 20px;
+    color: white;
+}
+.b4{
+    background-color: gray;
+    padding-left: 20px;
+}
+.main4{
+    background-color: yellow;
+    height: 800px;
+    position: relative;
 }
