@@ -94,3 +94,30 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+#b1{
+    background-image: url(assests/ic.jpg);
+}
+#b2{
+    background-image: url(assests/ic2.jpg);
+}
+#b3{
+    background: none;
+}
+#b4{
+    background-image: url(assests/ic3.jpg);
+}
+#b5{
+    background-image: url(assests/ic4.jpg);
+}
+#b6{
+    background-image: url(assests/ic5.jpg);
+}
+#b7{
+    background: none;
+}
+#b9{
+    background-image: url(assests/Line.jpg);
+}
+p{
+    font-size: 20px;
+}
