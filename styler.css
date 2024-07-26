@@ -1,0 +1,244 @@
+.first-main {
+    position: relative;
+    /* border: solid 1px brown; */
+    width: 1890px;
+    background-color: yellow;
+    background-image: url(images/Designer.png);
+    background-position: center;
+    background-size: cover;
+    height: 380px;
+
+}
+
+.fc {
+    color: aliceblue;
+
+}
+
+.fo {
+    border: 0px solid wheat;
+    opacity: 1;
+    font-size: 25px;
+}
+
+.col {
+    background-color: yellow;
+    color: rgb(38, 2, 2);
+    border-radius: 15px;
+}
+
+.position {
+    width: 280px;
+    position: absolute;
+    border: solid 0px brown;
+    top: 170px;
+    left: 130px;
+    z-index: 2;
+}
+
+.bg1 {
+    height: 230px;
+    background-color: red;
+    border: solid brown 0px;
+    /* margin-top: 130px; */
+    opacity: 0.4;
+}
+
+.para {
+    height: 350px;
+    width: 485px;
+    position: absolute;
+    left: 280px;
+    top: 70px;
+    border: 0px solid brown;
+}
+
+.second-main {
+    position: relative;
+    border: solid px brown;
+    width: 1890px;
+    height: 729px;
+    background-color: yellow;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg2 {
+    position: absolute;
+    background-image: url(images/cap.jpeg);
+    height: 400px;
+    width: 600px;
+    right: 150px;
+    top: 50px;
+    background-position: center;
+    background-size: cover;
+}
+
+.grid {
+    grid-template-columns: auto auto auto auto;
+    display: grid;
+    grid-gap: 5px;
+    position: absolute;
+    border: 0px solid brown;
+    top: 430px;
+    height: 303px;
+    background-color: yellow;
+}
+
+.same1 {
+    border: 0px solid brown;
+    height: 304px;
+    width: 471px;
+    text-align: center;
+    background-color: red;
+}
+
+.same2 {
+    border: 0px solid brown;
+    height: 304px;
+    width: 471px;
+    text-align: center;
+}
+
+.same3 {
+    border: 0px solid brown;
+    height: 304px;
+    width: 471px;
+    background-color: rgb(69, 65, 65);
+    color: wheat;
+    text-align: center;
+}
+
+.same4 {
+    border: 0px solid brown;
+    height: 304px;
+    width: 467px;
+    background-color: gray;
+    text-align: center;
+    margin-left: -5px;
+}
+
+.h1 {
+    padding-left: 40px;
+    color: white;
+}
+
+.h2 {
+    padding-left: 40px;
+    color: rgb(15, 14, 14);
+}
+
+.main-third {
+    position: relative;
+    border: 0px solid brown;
+    /* width: 1034px; */
+    height: 1100px;
+    width: 1890px;
+    margin-top: 3px;
+    background-color: yellow;
+}
+
+.sub {
+    border: 0px solid brown;
+    width: 1419px;
+    height: 600px;
+    position: absolute;
+    left: 471px;
+    background-color: rgb(21, 17, 17);
+}
+
+.first {
+    height: 300px;
+    width: 300px;
+    background-image: url(images/first.jpeg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    right: 1020px;
+    top: 60px;
+
+}
+
+.second {
+    height: 300px;
+    width: 300px;
+    background-image: url(images/second.jpeg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    left: -225px;
+    top: 60px;
+
+
+}
+
+.size {
+    height: 50px;
+    width: 50px;
+}
+
+.grid1 {
+    height: 300px;
+    width: 300px;
+    background-image: url(images/s1.jpeg);
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    top: 385px;
+    left: -225px;
+}
+
+.grid2 {
+    height: 300px;
+    width: 300px;
+    right: 1020px;
+    background-image: url(images/s2.jpeg);
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    top: 385px;
+}
+
+.grid3 {
+    height: 300px;
+    width: 300px;
+    right: 697px;
+    background-image: url(images/s3.jpeg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 385px;
+}
+
+.grid4 {
+    height: 300px;
+    width: 300px;
+    background-image: url(images/l1.jpeg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 710px;
+    left: -225px;
+}
+
+.grid5 {
+    height: 300px;
+    width: 300px;
+    right: 1020px;
+    background-image: url(images/l2.jpeg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 710px;
+}
+
+.grid6 {
+    height: 300px;
+    width: 300px;
+    right: 697px;
+    background-image: url(images/l3.jpeg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 710px;
+}
